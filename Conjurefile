@@ -1,0 +1,8 @@
+# -*- mode:yaml; -*-
+
+spell: battlemidget/ubuntu-spell
+cloud: localhost
+model: test-model
+controller: test-controller
+no-report: true
+no-track: true
